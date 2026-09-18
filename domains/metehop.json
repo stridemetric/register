@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "stridemetric",
+    "email": "stridemetric@proton.me"
+  },
+  "description": "https://metehop.github.io",
+  "records": {
+    "CNAME": "metehop.github.io"
+  }
+}
